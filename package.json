@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@rooks/use-geolocation": "^4.11.2",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -47,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "@types/leaflet": "^1.9.3",
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.26"
   }
